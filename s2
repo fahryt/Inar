@@ -8,10 +8,7 @@ do so (now or later) by using -c with the switch command. Example:
 
   git switch -c <new-branch-name>
 
-Or undo this operation with:
-
-  git switch -
-
 Turn off this advice by setting config variable advice.detachedHead to false
 
-HEAD is now at acefc62 Initial commit
+KAFA is now at acefc62 Initial commit 
+
